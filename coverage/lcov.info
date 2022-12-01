@@ -1,0 +1,17 @@
+TN:
+SF:app.js
+FN:1,saludo
+FN:5,nombreCompleto
+FNF:2
+FNH:1
+FNDA:0,saludo
+FNDA:1,nombreCompleto
+DA:2,0
+DA:6,1
+DA:9,1
+DA:10,1
+LF:4
+LH:3
+BRF:0
+BRH:0
+end_of_record

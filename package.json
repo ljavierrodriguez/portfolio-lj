@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-lj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljavierrodriguez/portfolio-lj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljavierrodriguez/portfolio-lj/issues"
+  },
+  "homepage": "https://github.com/ljavierrodriguez/portfolio-lj#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
